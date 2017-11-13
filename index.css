@@ -1,1 +1,21 @@
+* {
+box-sizing: border-box;
+}
 
+div {
+  background-color: grey;
+  border-color: black
+}
+
+.chicken {
+background-color: pink;
+}
+
+.beef {
+  color: white;
+background-color: red;
+}
+
+.sushi {
+background-color: yellow;
+}
