@@ -4,7 +4,8 @@ box-sizing: border-box;
 
 div {
   background-color: grey;
-  border-color: black;
+  border: 3px;
+  margin: auto;
 }
 
 #chicken {
