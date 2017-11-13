@@ -2,7 +2,7 @@
 box-sizing: border-box;
 }
 
-div {
+p {
   background-color: grey;
   border: 3px solid black;
   margin: 10px;
