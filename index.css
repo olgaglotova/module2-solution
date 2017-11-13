@@ -10,6 +10,8 @@ p {
 
 #chicken {
 background-color: pink;
+   border: 0px;
+  margin: 0px;
 }
 
 .beef {
