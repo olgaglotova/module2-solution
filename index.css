@@ -4,10 +4,10 @@ box-sizing: border-box;
 
 div {
   background-color: grey;
-  border-color: black
+  border-color: black;
 }
 
-.chicken {
+#chicken {
 background-color: pink;
 }
 
