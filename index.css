@@ -5,7 +5,8 @@ box-sizing: border-box;
 p {
   background-color: grey;
   border: 1px solid black;
- 
+ width: 30%;
+  align:left;
 }
 
 .chicken {
@@ -23,7 +24,7 @@ background-color: yellow;
 }
 
 .row {
-width:90%
+width:100%
 }
 
 
