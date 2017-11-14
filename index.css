@@ -1,11 +1,17 @@
-
 h1 {
   align:center;
   }
 
+
+.row {
+width:100%
+}
+
+
 .block {
   background-color: grey;
   border: 1px solid black;
+  margin: 3px;
 }
 
 .chicken {
@@ -14,44 +20,10 @@ background-color: pink;
 }
 
 .beef {
-  color: white;
+color: white;
 background-color: red;
 }
 
 .sushi {
 background-color: yellow;
-}
-
-.row {
-width:100%
-}
-
-
-
-/** large devices **/
-
-@media ( min-width: 992px){
-
-  #1 {
- 
-  }
-
-}
-
-/** medium devices **/
-
-@media ( min-width: 768px) and (max-width:991px){
-  
-  #1 {
- width: 50%;
-  }
-  
-    #2 {
- width: 50%;
-  }
-  
-    #3 {
- width: 50%;
-  }
-  
 }
