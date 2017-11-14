@@ -3,7 +3,7 @@ h1 {
   align:center;
   }
 
-p {
+.block {
   background-color: grey;
   border: 1px solid black;
 }
