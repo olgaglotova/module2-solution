@@ -19,9 +19,11 @@ width:100%
 
 .chicken {
 background-color: pink;
+  
   width: 40%;
 position: relative;
-align-self: left;
+align-self: right;
+text-align: center;
  
 }
 
