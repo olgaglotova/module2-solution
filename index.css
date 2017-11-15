@@ -23,6 +23,8 @@ background-color: pink;
 }
 
 .beef {
+position: relative;
+right:0px;
 color: white;
 background-color: red;
 }
