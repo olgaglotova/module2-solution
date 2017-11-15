@@ -19,12 +19,14 @@ width:100%
 
 .chicken {
 background-color: pink;
+  width: 40%;
+position: relative;
+align-self: left;
  
 }
 
 .beef {
-position: absolute;
-right:0px;
+
 color: white;
 background-color: red;
 }
