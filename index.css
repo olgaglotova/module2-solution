@@ -14,12 +14,13 @@ width:100%
   margin: 10px;
   float: left;
   width:30%;
+  padding:20px;
 
 }
 
 .chicken {
 background-color: pink;
-  
+  padding:20px;
   width: 40%;
 position: relative;
 lleft: 60%;
