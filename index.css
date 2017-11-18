@@ -20,7 +20,7 @@ width:100%
 
 .chicken {
   border: 1px solid black;
-  border-width: 0px 0px 0px 1px;
+  border-width: 0px 1px 1px 1px;
 background-color: pink;
 width: 40%;
 position: relative;
@@ -32,7 +32,7 @@ text-align: center;
 
 .beef {
 border: 1px solid black;
-  border-width: 0px 0px 0px 1px;
+  border-width: 0px 1px 1px 1px;
 color: white;
 background-color: red;
 width: 40%;
@@ -44,7 +44,7 @@ text-align: center;
 
 .sushi {
   border: 1px solid black;
-  border-width: 0px 0px 0px 1px;
+  border-width: 0px 1px 1px 1px;
 background-color: yellow;
 width: 40%;
 position: relative;
